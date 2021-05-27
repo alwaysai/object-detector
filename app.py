@@ -1,13 +1,5 @@
 import time
 import edgeiq
-"""
-Use object detection to detect objects in the frame in realtime. The
-types of objects detected can be changed by selecting different models.
-
-To change the computer vision model, the engine and accelerator,
-and add additional dependencies read this guide:
-https://alwaysai.co/docs/application_development/configuration_and_packaging.html
-"""
 
 
 def main():
